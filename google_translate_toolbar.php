@@ -16,9 +16,6 @@
  *      
  */
 
-/**
- * 
- */
 class GoogleTranslateToolbar extends WP_Widget{
     public $name = 'Google Translate Toolbar';
     public $description  = 'Adds Google translate toolbar to your wordpress site/blog';
